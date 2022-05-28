@@ -1,5 +1,5 @@
 hello git! modify
-hello git!
+hello git! hot-fix modify
 hello git!
 hello git!
 hello git!
